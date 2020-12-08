@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nudge.</string>
+    <string name="tagline">Keep the conversation going.</string>
+    <string name="getStarted">Get Started</string>
+    <string name="img_getStarted_bg">Welcome image</string>
+    <string name="verify_phone_number">Verify Your Number</string>
+    <string name="verify_number_desc">Please enter your Country Code\nand Phone number for verification</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="generate_opt">Generate OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_otp_desc">We have sent you an OTP for\nphone number verification</string>
+</resources>

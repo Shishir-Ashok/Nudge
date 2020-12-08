@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33995010212",
+    "firebase_url": "https://nudge-e7e08.firebaseio.com",
+    "project_id": "nudge-e7e08",
+    "storage_bucket": "nudge-e7e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33995010212:android:0d41f138b8d51c76d6f631",
+        "android_client_info": {
+          "package_name": "com.example.nudge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33995010212-600jf2q3s3iak3abt3ssb628327aa8qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nudge",
+            "certificate_hash": "be2bc84e6fba585a11975ef1b3ca1e2b6b0b316a"
+          }
+        },
+        {
+          "client_id": "33995010212-5r1bta4s8kpqh605jfml8j714n03t21l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyHgdsXu1j53CocrkBzNV2OEaBqTmOhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33995010212-5r1bta4s8kpqh605jfml8j714n03t21l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
